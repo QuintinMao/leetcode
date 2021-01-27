@@ -16,5 +16,6 @@ package leetcode;
  * 1203. Sort Items by Groups Respecting Dependencies 拓扑排序
  * 1247. Minimum Swaps to Make Strings Equal 
  * 1416. Restore the Array 
+ * 1579. Remove Max Number of Edges to Keep Graph Fully Traversable		并查集
  * 1786. 反转单词顺序
  */

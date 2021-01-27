@@ -16,13 +16,15 @@ package leetcodeTop100;
  *	 84. Largest Rectangle in Histogram
  *	 86. Partition List
  *	 98. Validate Binary Search Tree							BST	LDR
+ *	114. Flatten Binary Tree to Linked List						PreOrder Traversal, find 
  *  123. Best Time to Buy and Sell Stock III 
  *  124. Binary Tree Maximum Path Sum 
  *  128. Longest Consecutive Sequence 
  *  142. Linked List Cycle II									Hash, Fast Slow Pointer
  *  146. LRUCache
  *  198. House Robber											Dynamic Programming
- *  207. Course Schedule 
+ *  207. Course Schedule
+ *  238. Product of Array Except Self							prefix suffix 
  *  239. Sliding Window Maximum 
  *  240. Search a 2D Matrix II
  *  253. Meeting Rooms II										Sort, Min Heap
