@@ -1,7 +1,5 @@
 package leetcode;
 
-import java.util.ArrayList;
-import java.util.List;
 
 /**
  * Remove Max Number of Edges to Keep Graph Fully Traversable

@@ -14,6 +14,7 @@ public class BinaryTreeZigzagTraversal {
 		TreeNode n20 = new TreeNode(20, n15, n7);
 		TreeNode n9 = new TreeNode(9);
 		TreeNode root = new TreeNode(3, n9, n20);
+		@SuppressWarnings("unused")
 		List<List<Integer>> res = new BinaryTreeZigzagTraversal().zigzagLevelOrder(root);
 	}
 
